@@ -1,0 +1,7 @@
+print('enter a value')
+a = int(input()
+        print('enter b value')
+        b = int(input()
+        print('enter c value')
+        c = int(input())
+print('sum of a,b,c is', a + b + c)
